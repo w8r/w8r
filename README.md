@@ -1,5 +1,5 @@
 ## Alex Milevski 
-<a href="https://milevski.co"><img src="https://github.com/w8r/w8r.github.io/raw/master/images/bouffon-min.jpg" width="400" /></a>
+<a href="https://milevski.co"><img src="https://github.com/w8r/w8r.github.io/raw/master/images/bouffon-min.jpg" width="500" /></a>
 
 <a href="https://milevski.co">
   <img align="left" alt="web" width="22px" src="https://iconoir.com/source/link.svg" />
