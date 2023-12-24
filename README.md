@@ -2,15 +2,15 @@
 <a href="https://milevski.co"><img src="https://github.com/w8r/w8r.github.io/raw/master/images/bouffon-min.jpg" width="500" /></a>
 
 <a href="https://milevski.co">
-  <img align="left" alt="web" width="22px" src="https://cdn.jsdelivr.net/gh/lucaburgio/iconoir@main/icons/link.svg" />
+  <img align="left" alt="web" width="22px" src="https://cdn.jsdelivr.net/gh/lucaburgio/iconoir@7.2.0/icons/link.svg" />
   
 </a>
 <a href="https://www.instagram.com/mile8ski/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/lucaburgio/iconoir@main/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/lucaburgio/iconoir@7.2.0/icons/instagram.svg" />
 </a>
 </a>
 <a href="https://www.linkedin.com/in/alexandermilevski/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://cdn.jsdelivr.net/gh/lucaburgio/iconoir@main/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://cdn.jsdelivr.net/gh/lucaburgio/iconoir@7.2.0/icons/linkedin.svg" />
 </a>
 
 <br/>
